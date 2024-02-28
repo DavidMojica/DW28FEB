@@ -56,3 +56,8 @@ numeros.forEach(num=>{
 
 //Siempre usar metodos para arreglos.
 
+//Crear arreglos usando funciones flecha
+//Usar metodos de arreglos y mostrar resultados.
+//(para cada arreglo que usted construya mínimo un método distinto).
+//Usar callback fn
+//La funcion tipo flecha crea el arreglo. Crea el arreglo y se llena con las flechas.
